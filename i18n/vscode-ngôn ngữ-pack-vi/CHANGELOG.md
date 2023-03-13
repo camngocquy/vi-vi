@@ -3,4 +3,4 @@ All notable changes to the "vscode-language-pack-vi" language pack will be docum
 
 ## [Released]
 * 
-APRIL 18, 2023 - Release for VS Code 1.76.0
+APRIL 13, 2023 - Release for VS Code 1.76.0
